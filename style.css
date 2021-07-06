@@ -1,0 +1,223 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+.nav-area {
+    list-style: none;
+    margin-left: 750px;
+}
+
+.nav-area li {
+    display: inline;
+    padding: 0px 15px;
+}
+.nav-area li a {
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(255, 102, 0);
+}
+.red {
+    color: red;
+}
+.green {
+    color: lime;
+}
+.welcome-note  {
+    display: flex;
+}
+.width-33  {
+    width: 50%;
+    padding-left: 100px;
+    
+    
+}
+.width-66 {
+    width: 50%;
+    padding-left: 50px;
+    
+}
+h1{
+    font-size: 50px;
+}
+img {
+    height: 570px;
+    width: 570px;
+} 
+
+.anchor-1    {
+      padding-top: 70px;
+}
+.anchor-1 a {
+          text-decoration: none;
+          border: 1px solid white;
+          padding: 10px 20px;
+          border-radius: 25px;
+          background-image: linear-gradient(to bottom right, red, orange);
+          color: #fff;
+
+        }
+
+.about-me  {
+    background-image: url(essential-images/7.png);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 100px;
+    display: flex;
+} 
+
+.my-img  {
+    padding-left: 120px;
+    width: 50%;
+}
+.myself  {
+    width: 50%;
+    text-align: justify;
+    padding-right: 100px;
+    margin-top: 50px;
+}
+
+.contact-me  {
+    padding-top: 70px;
+
+}
+
+.contact-me a {
+        text-decoration: none;
+          border: 1px solid white;
+          padding: 10px 20px;
+          border-radius: 25px;
+          background-image: linear-gradient(to bottom right, red, orange);
+          color: #fff;
+}
+
+.recipes  {
+    margin-top: 100px;
+}
+
+.my-recip  {
+    text-align: center;
+}
+
+.all-boxes   {
+    display: flex;
+    padding-top: 40px;
+    
+}
+.box-1  {
+    height: 500px;
+    width: 280px;
+    box-sizing: border-box;
+    box-shadow: 6px 6px 40px 10px #5F4888FF;
+    margin-left: 130px;
+    border-radius: 15px;
+}
+
+.box-2  {
+
+    height: 500px;
+    width: 280px;
+    box-sizing: border-box;
+    box-shadow: 6px 6px 40px 10px #5F4888FF;
+    margin-left: 130px;
+    border-radius: 15px;
+}
+
+.box-3   {
+    height: 500px;
+    width: 280px;
+    box-sizing: border-box;
+    box-shadow: 6px 6px 40px 10px #5F4888FF;
+    margin-left: 130px;
+    border-radius: 15px;
+}
+
+.followers  {
+    margin-top: 170px;
+}
+
+.main  {
+    display: flex;
+    box-sizing: border-box;
+    box-shadow: 6px 6px 40px 10px rgb(145, 212, 126);
+}
+
+.instagram  {
+    margin-left: 200px;
+    text-align: center;
+    margin-top: 40px;
+    padding-bottom: 40px;
+}
+
+.youtube  {
+    margin-left: 300px;
+    text-align: center;
+    margin-top: 40px;
+    padding-bottom: 40px;
+
+}
+
+.dribbble  {
+    margin-left: 300px;
+    text-align: center;
+    margin-top: 40px;
+    padding-bottom: 40px;
+} 
+
+form {
+    width: 450px;
+    margin: 150px auto;
+}
+input, textarea {
+    border: 2px solid orangered;
+    width: 100%;
+    padding: 15px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    border-radius: 7px;
+    outline: none;
+}
+textarea {
+    height: 200px;
+    resize: vertical;
+} 
+.submit {
+    width: 485px;
+    padding: 10px 0px;
+    font-size: 22px;
+    border-radius: 7px;
+    font-weight: 700;
+    text-transform: uppercase;
+    background-image: linear-gradient(to bottom right, red, orange);
+    margin-right: 50px;
+    color: #fff;
+    border: none;
+}
+
+.connection  {
+    margin-top: 180px
+}
+
+.opinion {
+    margin-top: 30px;
+}
+
+.footerr  {
+    margin-top: 120px;
+    background-color: black;
+    width: 100%;
+    height: 180px;
+    color: white;
+}
+
+.last  {
+    text-align: center;
+    padding-top: 5px;
+}
+
+
+
+
